@@ -1,0 +1,15 @@
+{
+  "properties": [
+    {
+      "name": "foo.counter",
+      "type": "java.lang.Integer",
+      "description": "Description for foo.counter.",
+      "defaultValue": 2
+    },
+    {
+      "name": "foo.bar",
+      "type": "java.lang.String",
+      "description": "Some very smart description."
+    }
+  ]
+}
